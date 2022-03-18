@@ -18,11 +18,6 @@ void LightManager::Init()
 	m_Light.Diffuse = { 1.0f, 1.0f, 1.0f, 1.0f };
 
 
-	//hajlkjdnmoinm
-	//684844
-	//1111
-
-
 }
 
 void LightManager::Uninit()
