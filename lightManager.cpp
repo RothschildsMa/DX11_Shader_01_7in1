@@ -19,6 +19,7 @@ void LightManager::Init()
 
 
 	//hajlkjdnmoinm
+	//684844
 
 
 }
